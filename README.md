@@ -1,16 +1,18 @@
-## Hi there 👋
+## Who I am
 
-<!--
-**murilo-bracero/murilo-bracero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Software Engineer certified by Google and with a degree in Computer Science, passionate about technology and it's applications on our routines to make our lifes easier.
 
-Here are some ideas to get you started:
+📖 Currently working on my open source pet project, (raspstore)[https://github.com/murilo-bracero/raspstore], and some other personal projects. I'm also very committed to learn Golang and C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🪴 I also try some gardening in my free time, and even though I like it a lot, the plants seems not to.
+
+## Some cool stats
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-bracero&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="520px" align="left" src="https://github-readme-stats.vercel.app/api?username=murilo-bracero&theme=tokyonight"/></td>
+    </tr>   
+</table>
+</center>  

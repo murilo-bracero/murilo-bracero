@@ -4,7 +4,7 @@ Trick question, let's see if I can anwer that.
 
 🖥️ Software Engineer certified by Google and with a degree in Computer Science, passionate about technology and their applications in our routines to make our lifes easier.
 
-🎩 I'm currently working as a full-time Java developer
+🎩 I'm currently working as a full-time Java developer.
 
 📖 Learning Golang with my open source pet project, [Raspstore](https://github.com/murilo-bracero/raspstore), and some other personal projects. I'm also very committed to learning C++.
 
